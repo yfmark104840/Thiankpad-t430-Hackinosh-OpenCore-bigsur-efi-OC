@@ -21,6 +21,7 @@ This EFI Folders for running macOS on a Lenovo T430 Laptop using OpenCore 0.6.5(
     │   ├── SSDT-HPET.aml
     │   ├── SSDT-PM.aml
     │   ├── SSDT-PNLF.aml
+    │   ├── SSDT-Thinkpad_TrackPad.aml	
     │   └── SSDT-XOSI.aml
     ├── Drivers
     │   ├── HfsPlus.efi
@@ -43,7 +44,7 @@ This EFI Folders for running macOS on a Lenovo T430 Laptop using OpenCore 0.6.5(
     │   ├── SMCBatteryManager.kext
     │   ├── VirtualSMC.kext
     │   ├── VoodooPS2Controller.kext
-    │   ├── VoodooSDHC.kext
+    │   ├── VoodooInput.kext
     │   └── WhateverGreen.kext
     ├── OpenCore.efi
     ├── Resources 
