@@ -5,11 +5,12 @@ This EFI Folders for running macOS on a Lenovo T430 Laptop using OpenCore 0.6.5(
 
 **NOTE**: Read and follow the install instruction carefully and thoroughly!
 
+<details>
 <summary><strong>EFI Folder Content</strong></summary>
 
 ### EFI Folder Structure
 
-EFI
+```
 ├── BOOT
 │   └── BOOTx64.efi
 └── OC
@@ -53,8 +54,7 @@ EFI
     ├── Tools
     │   └── CleanNvram.efi
     └── config.plist
-
-
+```
 </details>
 
 ## HARDWARE SPECS
