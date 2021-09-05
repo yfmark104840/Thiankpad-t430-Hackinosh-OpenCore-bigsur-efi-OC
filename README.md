@@ -45,6 +45,8 @@ This EFI Folders for running macOS on a Lenovo T430 Laptop using OpenCore 0.6.5(
     │   ├── VirtualSMC.kext
     │   ├── VoodooPS2Controller.kext
     │   ├── VoodooInput.kext
+    │   ├── RealtekCardReader.kext
+    │   ├── RealtekCardReaderFriend.kext
     │   └── WhateverGreen.kext
     ├── OpenCore.efi
     ├── Resources 
@@ -90,11 +92,11 @@ Mouse
 App Store
 Brightness
 Webcam
+SD card reader
 miniDP output is working perfectly (need change ig-platform id from 0x01660004 to 0x01660003 in DSDT.aml and config.list)  
   
 ###Not working
   
-- [ ] SD card reader
 - [ ] Fingerprint Reader - model not supported by macOS
 - [ ] VGA Port – not supported since macOS Mountain Lion: [Intel HD Graphics VGA Support](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md#vga-support)
 </details>
