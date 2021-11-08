@@ -229,7 +229,7 @@ CPU Power Management should work fine after that. Optionally, you can install In
 **NOTE 2**: You can also add modifiers to the terminal command for building the SSDT. You can - for example - drop the low frequency from their default 1200 MHz to 900 MHz in 100 mHz increments, but no lower than that. Otherwise the system crashes during boot. I suggests you experiement with the modifiers a bit.</br>
 </details>
 <details>
-<summary><strong></strong></summary>
+<summary><strong>CREDITS and THANK YOUs</strong></summary>
 
 ## CREDITS and THANK YOUs
 
