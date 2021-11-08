@@ -231,6 +231,7 @@ CPU Power Management should work fine after that. Optionally, you can install In
 
 ## CREDITS and THANK YOUs
 <details>
+<summary><strong>CREDITS and THANK YOUs</strong></summary>
 - George Kushnir for [1vyrain BIOS Jailbreak](https://github.com/n4ru/1vyrain) to remove WLAN whitelist
 - Acidanthera and Team for [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
 - Dortantia for the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
@@ -240,6 +241,4 @@ CPU Power Management should work fine after that. Optionally, you can install In
 - [RealKiro](https://github.com/RealKiro/Hackintosh) for Clover EFI with ACPI Patches for referencing
 - [banhbaoxamlan](https://github.com/banhbaoxamlan/X230-Hackintosh) for his EFI folder containing ACPI files to fix the post-sleep pulsing LED issue.
 - [5T33Z0](https://github.com/5T33Z0/Lenovo-T530-Hackinosh-OpenCore) for Lenovo-T530-Hackinosh-OpenCore
-<details>
-<summary><strong>CREDITS and THANK YOUs</strong></summary>
 </details>
