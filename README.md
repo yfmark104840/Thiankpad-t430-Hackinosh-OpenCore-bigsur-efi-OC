@@ -240,4 +240,5 @@ CPU Power Management should work fine after that. Optionally, you can install In
 - [RealKiro](https://github.com/RealKiro/Hackintosh) for Clover EFI with ACPI Patches for referencing
 - [banhbaoxamlan](https://github.com/banhbaoxamlan/X230-Hackintosh) for his EFI folder containing ACPI files to fix the post-sleep pulsing LED issue.
 - [5T33Z0](https://github.com/5T33Z0/Lenovo-T530-Hackinosh-OpenCore) for Lenovo-T530-Hackinosh-OpenCore
+	
 </details>
